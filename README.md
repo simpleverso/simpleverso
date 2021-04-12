@@ -1,6 +1,7 @@
 ### Hola 👋
 
-Lo que una mente crea, otra lo destruye. Att: 0x6877
+Lo que una mente crea, otra lo destruye. 
+-Dr.Mind.
 
 <!--
 **simpleverso/simpleverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
