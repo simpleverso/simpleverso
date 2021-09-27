@@ -1,4 +1,4 @@
-### Hola 👋
+### “La fortaleza del hombre radica en el dominio de su mente, su grandeza se conoce por la humildad de su espíritu, la honradez de su alma y su voluntad para vencer” 👋
 
 Lo que una mente crea, otra lo destruye. 
 -#DR.M1ND
