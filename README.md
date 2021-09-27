@@ -1,7 +1,7 @@
 ### Hola 👋
 
 Lo que una mente crea, otra lo destruye. 
--Dr.Mind.
+-#DR.M1ND
 
 <!--
 **simpleverso/simpleverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
