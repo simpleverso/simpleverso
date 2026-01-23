@@ -1,4 +1,4 @@
-### “La fortaleza del hombre radica en el dominio de su mente, su grandeza se conoce por la humildad de su espíritu, la honradez de su alma y su voluntad de vencer”.
+### “Que no haya dolor que te doblegue, ni obstáculo que te venza, que la grandeza de tu humildad y la fortaleza de tu mente, te hagan alcanzar la victoria”.
 
 <!--
 **simpleverso/simpleverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
